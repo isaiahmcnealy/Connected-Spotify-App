@@ -20,7 +20,7 @@
   <h3 align="center">Connected Spotify App</h3>
 
   <p align="center">
-    TODO: What is connected spotify app
+    A web app to visualize personalized spotify data.
     <br />
     <a href="https://github.com/isaiahmcnealy/Connected-Spotify-App"><strong>Explore the docs »</strong></a>
     <br />
@@ -105,7 +105,7 @@ _Below is a step by step instruction on how to install this project locally_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/isaiahmcnealy/Inventory-Management-System.git
+   git clone https://github.com/isaiahmcnealy/Connected-Spotify-App.git
    ```
 2. Plug in iOS device and run project
 
@@ -130,7 +130,7 @@ _For more examples, please refer to the [Documentation](http://isaiahmcnealy.com
 - [x] Add README
 
 
-See the [open issues](https://github.com/isaiahmcnealy/Inventory-Management-System.git) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/isaiahmcnealy/Connected-Spotify-App.git) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -159,7 +159,7 @@ Don't forget to give the project a star! Thanks again!
 
 Isaiah McNealy - [@isaiah_mcnealy](https://twitter.com/isaiah_mcnealy) - imcnealy@icloud.com
 
-Project Link: [https://github.com/isaiahmcnealy/Inventory-Management-System](https://github.com/isaiahmcnealy/Inventory-Management-System)
+Project Link: [https://github.com/isaiahmcnealy/Connected-Spotify-App.git](https://github.com/isaiahmcnealy/Connected-Spotify-App.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -183,16 +183,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[forks-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[stars-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[issues-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/issues
-[license-shield]: https://img.shields.io/github/license/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[license-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/isaiahmcnealy/Connected-Spotify-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/isaiahmcnealy/Connected-Spotify-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/isaiahmcnealy/Connected-Spotify-App.svg?style=for-the-badge
+[forks-url]: https://github.com/isaiahmcnealy/Connected-Spotify-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/isaiahmcnealy/Connected-Spotify-App.svg?style=for-the-badge
+[stars-url]: https://github.com/isaiahmcnealy/Connected-Spotify-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/isaiahmcnealy/Connected-Spotify-App.svg?style=for-the-badge
+[issues-url]: https://github.com/isaiahmcnealy/Connected-Spotify-App/issues
+[license-shield]: https://img.shields.io/github/license/isaiahmcnealy/Connected-Spotify-App.svg?style=for-the-badge
+[license-url]: https://github.com/isaiahmcnealy/Connected-Spotify-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/isaiahmcnealy/
 [product-screenshot]: images/screenshot.png
